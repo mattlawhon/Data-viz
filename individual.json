@@ -10,7 +10,7 @@
   },
   {
     "sex": "male",
-    "ses": "Horn",
+    "ses": "Horn of Africa",
     "Drowning": 61.8,
     "Sickness_med": 20.6,
     "Starvation": 6.6,
@@ -19,7 +19,7 @@
   },
   {
     "sex": "male",
-    "ses": "North",
+    "ses": "North Africa",
     "Drowning": 1.7,
     "Sickness_med": 53.6,
     "Starvation": 25.2,
@@ -28,7 +28,7 @@
   },
   {
     "sex": "male",
-    "ses": "USMex",
+    "ses": "US-Mexico Border",
     "Drowning": 28.8,
     "Sickness_med": 0.3,
     "Starvation": 0,
@@ -37,7 +37,7 @@
   },
   {
     "sex": "male",
-     "ses": "Sub-Saharan",
+    "ses": "Sub-Saharan Africa",
     "Drowning": 35.9,
     "Sickness_med": 23.9,
     "Starvation":5,
