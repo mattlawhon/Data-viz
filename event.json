@@ -1,0 +1,47 @@
+[
+  {
+    "sex": "male",
+    "ses": "Mediterranean",
+    "Drowning": 83.4,
+    "Sickness_med": 0.5,
+    "Starvation": 0,
+    "Unknown": 16.1,
+    "Vehicle": 0
+  },
+  {
+    "sex": "male",
+    "ses": "Horn of Africa",
+    "Drowning": 17.8,
+    "Sickness_med": 60,
+    "Starvation": 9.5,
+    "Unknown": 3.3,
+    "Vehicle": 9.4
+  },
+  {
+    "sex": "male",
+    "ses": "North Africa",
+    "Drowning": 1.8,
+    "Sickness_med": 59.8,
+    "Starvation": 19.4,
+    "Unknown": 5.5,
+    "Vehicle": 13.5
+  },
+  {
+    "sex": "male",
+    "ses": "US-Mexico Border",
+    "Drowning": 28.6,
+    "Sickness_med": 0.4,
+    "Starvation": 0,
+    "Unknown": 68,
+    "Vehicle": 3
+  },
+  {
+    "sex": "male",
+    "ses": "Sub-Saharan Africa",
+    "Drowning": 6,
+    "Sickness_med": 49.6,
+    "Starvation": 7.6,
+    "Unknown": 10.9,
+    "Vehicle": 25.9
+  }
+]
